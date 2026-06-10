@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/frontier-logo.png" alt="Frontier Project UFRGS" width="160">
+  <img src="assets/frontier-logo.png" alt="Frontier Project UFRGS">
 </p>
 
 <h1 align="center">Frontier Project UFRGS</h1>
