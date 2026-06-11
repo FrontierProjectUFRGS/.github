@@ -1,112 +1,111 @@
 <p align="center">
-  <img src="assets/frontier-logo.png" alt="Frontier Project UFRGS">
+  <img src="assets/fisi-logo.png" alt="FiSi Lab UFRGS">
 </p>
 
-<h1 align="center">Frontier Project UFRGS</h1>
+<h1 align="center">FiSi Lab</h1>
 
 <p align="center">
-  <strong>Frontier Lab for Emerging Technologies</strong><br>
-  <em>Where physics meets the frontier of the possible.</em>
+  <strong>Laboratório de Física, IA e Sistemas Inteligentes</strong><br>
+  <em>Onde a física encontra a fronteira do possível.</em>
 </p>
 
 <p align="center">
-  Institute of Physics · Federal University of Rio Grande do Sul (UFRGS)<br>
-  Porto Alegre · Brazil
+  Instituto de Física · Universidade Federal do Rio Grande do Sul (UFRGS)<br>
+  Porto Alegre · Brasil
 </p>
 
 ---
 
-## About
+## Sobre
 
-The **Frontier Project** is a frontier laboratory based at the **Institute of Physics of the Federal University of Rio Grande do Sul (UFRGS)**. It brings together, in a single space, cutting-edge research, the training of people, and the development of high-impact prototypes.
+O **FiSi Lab** é um laboratório de pesquisa e desenvolvimento baseado no **Instituto de Física da Universidade Federal do Rio Grande do Sul (UFRGS)**. Reunimos, em um mesmo espaço, pesquisa aplicada, formação de pessoas e desenvolvimento de protótipos de alto impacto.
 
-We operate at the intersection of **physics, engineering, computation, data science and artificial intelligence**, working from the conviction that the most interesting problems of our time are, by nature, interdisciplinary. Our purpose is to connect researchers, students, companies, startups and public institutions to transform scientific knowledge into real-world impact.
+Atuamos na intersecção entre **física, inteligência artificial e sistemas inteligentes** com a convicção de que os problemas mais relevantes do nosso tempo são, por natureza, interdisciplinares. Nossa base está na física; nossa prática, na construção. Conectamos pesquisadores, estudantes, empresas e instituições para transformar conhecimento científico em impacto real.
 
-## Vision
+## Visão
 
-To be the place, within UFRGS, where the future is built with our own hands — a space where scientific curiosity meets the courage to prototype, and where ideas that do not yet exist become reality.
+Ser o laboratório do Instituto de Física onde física e inteligência artificial se encontram para resolver problemas reais.
+## Missão
 
-## Mission
+Criar um ambiente interdisciplinar de excelência onde estudantes e pesquisadores concebem, prototipam e estudam sistemas inteligentes com raízes na física, gerando conhecimento, formando pessoas e produzindo impacto concreto a partir do Instituto de Física da UFRGS.
 
-Create an interdisciplinary environment of excellence where students and researchers conceive, prototype and study emerging technologies — from brain–machine interfaces to artificial intelligence — generating knowledge, training people and producing concrete impact from the Institute of Physics at UFRGS.
+Na prática, isso significa:
 
-In practice, this means:
+* Aplicar fundamentos físicos ao desenvolvimento de sistemas de IA e modelos preditivos.
+* Transformar pesquisa em protótipos funcionais, e protótipos em impacto.
+* Construir pontes entre academia, indústria e sociedade.
+* Fomentar colaboração entre áreas — física, computação, engenharia e ciência de dados.
+* Formar uma nova geração de cientistas que também saibam construir.
 
-* Turning research into working prototypes, and prototypes into impact.
-* Building bridges between academia, industry and society.
-* Supporting high-impact, interdisciplinary technological projects.
-* Fostering collaboration across disciplines.
-* Training a new generation of scientists and builders.
+## Nosso Modelo
 
-## Our Model
+O FiSi Lab combina três papéis que normalmente vivem separados na universidade:
 
-The Frontier Project combines three roles that usually live apart in the university:
+* **Laboratório de pesquisa** — organizado em frentes tecnológicas com intersecção livre; método orientado a construir, testar e iterar com base em modelos físicos e computacionais.
+* **Acelerador de projetos** — um caminho estruturado que leva uma ideia do estágio inicial a um protótipo maduro e visível, com mentoria, marcos e apresentações públicas.
+* **Comunidade de aprendizado** — onde formar pessoas é inseparável de produzir resultados; aberto à comunidade ampla por meio de workshops e atividades de extensão.
 
-* **Research lab** — organized into technology fronts that cross freely rather than into isolated silos; a method oriented toward building, testing and iterating.
-* **Project accelerator** — a structured path that takes an idea from an early stage to a mature, visible prototype through mentorship, milestones and public showcases.
-* **Learning community** — where training people is inseparable from producing results, open to the wider community through workshops and outreach.
+Esses papéis se apoiam em três pilares: **Pesquisa**, **Formação** e **Tradução & Impacto**.
 
-These roles rest on three pillars: **Research**, **Education** and **Translation & Impact**.
+## Frentes Tecnológicas
 
-## Technology Fronts
+Os projetos se organizam em torno de frentes tecnológicas com forte base em física e computação. Não são silos — a maioria dos projetos emerge no cruzamento de duas ou mais frentes.
 
-Projects are organized around eight technology fronts. They are not silos — most frontier projects emerge at the crossing of two or more (a brain–machine interface, for example, mobilizes BCI, robotics, data analysis and AI at once).
+* **Inteligência Artificial Aplicada** — Agentes, modelos de linguagem e visão computacional aplicados a problemas concretos com fundamentos físicos e matemáticos sólidos.
+* **Sistemas Preditivos** — Modelagem preditiva para fenômenos físicos, ambientais e operacionais; séries temporais, aprendizado de máquina e simulação.
+* **Interface Cérebro-Máquina (BCI)** — Decodificação de sinais neurais (EEG) para controle de dispositivos e estudo da interação humano-máquina.
+* **Robótica e Controle** — Projeto, controle e integração de sistemas robóticos, da atuação à percepção inteligente.
+* **Simulação Física** — Modelagem computacional e métodos numéricos para entender e prever sistemas físicos.
+* **Análise de Dados** — Transformar dados experimentais e operacionais em conhecimento acionável; estatística, visualização e ciência de dados.
+* **Prototipagem** — Da ideia ao protótipo funcional em ciclos curtos de iteração, incluindo manufatura aditiva e instrumentação.
 
-* **Brain–Machine Interface (BCI)** — Decoding neural signals (EEG) to control devices and study human–machine interaction.
-* **Robotics** — Design, control and integration of robotic systems, from actuators to perception.
-* **Prototyping** — From idea to functional prototype in short iteration cycles.
-* **Data Analysis** — Turning experimental and operational data into actionable knowledge.
-* **Artificial Intelligence Systems** — Agents, language models and computer vision applied to concrete problems.
-* **Prediction Systems** — Predictive modeling for physical, environmental and operational phenomena.
-* **3D Printing** — Additive manufacturing for functional parts, instrumentation and experimental structures.
-* **Physical Simulation** — Computational modeling and numerical methods to understand and predict physical systems.
+## O Que Fazemos
 
-## What We Do
+* Pesquisa & Desenvolvimento (P&D) em física computacional e IA
+* Projetos de inovação interdisciplinar
+* Colaboração e codesenvolvimento com empresas
+* Programas de inovação (Residência de Projetos, Demo Day)
+* Iniciativas educacionais e workshops
+* Transferência e tradução tecnológica
+* Projetos de ciência aberta
 
-* Research & Development (R&D)
-* Interdisciplinary innovation projects
-* Industry collaboration and co-development
-* Innovation programs (Project Residency, Demo Day)
-* Educational initiatives and workshops
-* Technology transfer and translation
-* Open science projects
+## Princípios
 
-## Core Principles
+* **Física como fundamento** — Partimos de modelos, equações e experimentos; IA e sistemas inteligentes ganham profundidade quando enraizados em física.
+* **Construir para entender** — Protótipos e experimentos são formas legítimas e poderosas de produzir conhecimento.
+* **Interdisciplinaridade radical** — Problemas reais não respeitam fronteiras disciplinares; nós também não.
+* **Tecnologia centrada no humano** — Buscamos tecnologias que ampliem capacidades humanas e gerem benefício social.
+* **Abertura e reprodutibilidade** — Documentação clara, métodos abertos e ciência que outros possam reproduzir e estender.
+* **Pessoas em primeiro lugar** — Todo projeto é também uma oportunidade de crescimento de quem o carrega.
 
-* **Radical interdisciplinarity** — Real problems don't respect disciplinary boundaries; neither do we.
-* **Build to understand** — Prototypes and experiments are legitimate, powerful ways to produce knowledge.
-* **Human-centered technology** — We pursue technologies that expand human capabilities and deliver social benefit.
-* **Openness & reproducibility** — Clear documentation, open methods and science others can reproduce and extend.
-* **People first** — Every project is also an opportunity for the growth of those who carry it out.
+## Programas
 
-## Programs
+* **Bolsas e Fellowships** — para estudantes e pesquisadores dedicados.
+* **Workshops & Formação** — treinamento prático em IA, dados, física computacional, BCI e prototipagem; aberto à comunidade UFRGS e além.
+* **Demo Day** — apresentação semestral para a comunidade, parceiros e potenciais financiadores.
+* **Parcerias com a Indústria** — desafios reais, codesenvolvimento e acesso a talentos e protótipos.
 
-* **Fellowships & Scholarships** — for dedicated students and researchers.
-* **Workshops & Training** — practical training in AI, data, prototyping, BCI and numerical methods, open to the UFRGS community and beyond.
-* **Demo Day** — a semestral showcase for the community, partners and potential funders.
-* **Industry Partnerships** — real challenges, co-development and access to talent and prototypes.
+## Parceiros & Ecossistema
 
-## Partners & Ecosystem
+O FiSi Lab busca ativamente colaboração com:
 
-The Frontier Project actively seeks collaboration with:
+* Empresas e startups
+* Institutos de pesquisa e grupos acadêmicos
+* Agências de fomento (CNPq, FAPERGS, CAPES)
+* Ecossistemas de inovação
+* Universidades internacionais
 
-* Companies and startups
-* Research institutes and academic groups
-* Government and funding agencies (CNPq, FAPERGS, CAPES)
-* Innovation ecosystems
-* International universities
+## Participe
 
-## Get Involved
+Somos abertos a pesquisadores, estudantes, empreendedores e organizações interessados em construir o futuro por meio de ciência e tecnologia. Seja para entrar em uma frente, propor um projeto, conduzir um workshop ou explorar uma parceria — fale com a gente.
 
-We welcome researchers, students, entrepreneurs and organizations interested in shaping the future through science and technology. Whether you want to join a front, propose a project, run a workshop or explore a partnership — let's talk.
-
-📍 **Building 43132 · Room 109C · Campus do Vale**
-Av. Bento Gonçalves, 9500 · Agronomia · Porto Alegre/RS · 91509-900 · Brazil
+📍 **Prédio 43132 · Sala 109C · Campus do Vale**
+Av. Bento Gonçalves, 9500 · Agronomia · Porto Alegre/RS · 91509-900 · Brasil
 
 ---
 
 <p align="center">
-  <strong>Frontier Project UFRGS</strong><br>
-  Science • Technology • Innovation<br>
-  <em>"Transforming knowledge into impact."</em>
+  <strong>FiSi Lab · UFRGS</strong><br>
+  Física • Inteligência Artificial • Sistemas Inteligentes<br>
+  <em>"Transformando conhecimento em impacto."</em>
 </p>
