@@ -3,7 +3,6 @@
 
 <p align="center">
   <strong>Laboratório de Física, IA e Sistemas Inteligentes</strong><br>
-  <em>Onde a física encontra a fronteira do possível.</em>
 </p>
 
 <p align="center">
