@@ -103,5 +103,4 @@ Av. Bento Gonçalves, 9500 · Agronomia · Porto Alegre/RS · 91509-900 · Brasi
 <p align="center">
   <strong>FiSi Lab · UFRGS</strong><br>
   Física • Inteligência Artificial • Sistemas Inteligentes<br>
-  <em>"Transformando conhecimento em impacto."</em>
 </p>
