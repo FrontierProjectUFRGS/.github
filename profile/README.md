@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/fisi-logo.png" alt="FiSi Lab UFRGS">
-</p>
 
 <h1 align="center">FiSi Lab</h1>
 
